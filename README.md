@@ -8,9 +8,9 @@ Online blog documentation here: https://www.powershelladmin.com/wiki/Get-wmiobje
 
 Here's a screenshot of the version before the third major rewrite:
 
-!(image_gwmi_wrapper_async)[/img/Gwmi-Async-Sample.png]
+![image_gwmi_wrapper_async](/img/Gwmi-Async-Sample.png)
 
 Example of the produced XML:
 
-!(image_gwmi_wrapper_async)[/img/Gwmi-Async-Xml-Sample.png]
+![image_gwmi_wrapper_async](img/Gwmi-Async-Xml-Sample.png)
 
